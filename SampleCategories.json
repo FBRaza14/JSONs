@@ -1,0 +1,23 @@
+{
+    "vt": 0,
+    "data": [
+        {
+            "id": 1,
+            "name": "Sports",
+            "logo": "",
+            "child_count": 0
+        },
+        {
+            "id": 2,
+            "name": "News",
+            "logo": "",
+            "child_count": 0
+        },
+        {
+            "id": 3,
+            "name": "Movies",
+            "logo": "",
+            "child_count": 3
+        }
+    ]
+}
